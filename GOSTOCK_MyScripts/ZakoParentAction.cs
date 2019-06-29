@@ -127,10 +127,6 @@ public class ZakoParentAction : MonoBehaviour
 		playerControl = FindObjectOfType<PlayerControl>();
 	}
 
-	void Update ()
-	{
-	}
-
 	// 引数を追加 2018.12.20------------------------------------
 	public void Action(PlayerControl player, GameObject playerCamera)
 	{

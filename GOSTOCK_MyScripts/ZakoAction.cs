@@ -52,10 +52,6 @@ public class ZakoAction : MonoBehaviour
 		// 2019.02.26
 		playerControl = FindObjectOfType<PlayerControl>();
 	}
-	
-	void Update ()
-	{
-	}
 
 	// 名前を変更 Action -> NormalAction 2018.12.20
 	public void NormalAction()
